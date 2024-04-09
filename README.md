@@ -4,7 +4,7 @@
 
 ## Example video
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](./example/video.mp4)
+<img src="./example/example.gif" alt="Preview" width="300" height="640">
 
 ## Step 1: Install dependencies
 
