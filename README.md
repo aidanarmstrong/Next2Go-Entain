@@ -5,7 +5,7 @@
 ## Example video
 
 <video width="320" height="540" controls>
-  <source src="https://github.com/aidanarmstrong/Next2Go-Entain-/blob/main/example/video.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/aidanarmstrong/Next2Go-Entain-/main/example/video.mp4" type="video/mp4">
   Your browser does not support video players.
 </video>
 
