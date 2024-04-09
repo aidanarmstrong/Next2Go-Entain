@@ -4,10 +4,7 @@
 
 ## Example video
 
-<video width="320" height="540" controls>
-  <source src="https://raw.githubusercontent.com/aidanarmstrong/Next2Go-Entain-/main/example/video.mp4" type="video/mp4">
-  Your browser does not support video players.
-</video>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](./example/video.mp4)
 
 ## Step 1: Install dependencies
 
